@@ -38,4 +38,3 @@ Bath.json:
 }
 
 Hint: bath.json needs to live on a server and a network request needs to be implemented in the app.
-
