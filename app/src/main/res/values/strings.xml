@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bathtub Test</string>
+
+    <!-- LOADING MESSAGES -->
+    <string name="message_downloading_temperatures">Downloading temperatures. Please wait...</string>
+
+    <!-- TOAST MESSAGES -->
+    <string name="error_bath_full">The Bathtub has reached its capacity</string>
+    <string name="error_network">There was a connection error: %1$s</string>
+
+</resources>
